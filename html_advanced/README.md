@@ -23,7 +23,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 *   Techium will be the name of the company we will use across our webpages.
 
 ## Sitemap of the project
-![](https://i.imgur.com/j7qKt2m.png)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231108%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231108T091723Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=53b92cc268a6ba03638096a04abc78ab73916a3b3044feae5f1257cb8ddc6007)
 
 ## Wireframe of `Techium` project
-![](https://i.imgur.com/4eabK4Q.png)
+![](https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2020/4/3e4f9e2b3cb73d1768229e086f5da35337be5c6c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20231108%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20231108T091723Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=9562a9e0f307586cb1d0a0bd078b9cfb6558f4c4f9aac20aad6b5d3b037fcb43)
