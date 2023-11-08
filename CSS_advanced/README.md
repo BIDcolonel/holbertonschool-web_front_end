@@ -25,6 +25,6 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 *   A README.md file, at the root of the folder of the project, is mandatory
 *   Your code should be W3C compliant and validate with W3C-Validator
 
-## End goal of the project
+## End goal of the project
 
 ![](https://media.discordapp.net/attachments/1130868842197962864/1171741097165324328/End_goal_of_the_project.png?ex=655dc7ef&is=654b52ef&hm=9bafa22d3258b6cda6279d788eb825ee181b5b26c70f54e3a8c7e6f55d7b8340&=&width=213&height=660)
